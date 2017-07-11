@@ -56,3 +56,11 @@
 	font-family: 'Quicksand', sans-serif;
 	font-size: 120%
 }
+
+.footer {
+	background: #333;
+	margin-top: -18px;
+	color: white;
+	padding-bottom: 100px;
+}
+
